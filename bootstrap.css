@@ -25,7 +25,8 @@ body {
     background-color: white;
     margin-top: 30px;
     border: 1px solid #dddddd;
-    margin-bottom: 150px;
+    margin-bottom: 125px;
+    padding-bottom: 20px;
 }
 
 .about {
@@ -72,3 +73,31 @@ img {
 .footer {
     text-align: center;
 }
+
+
+/*Contact CSS*/
+
+#formGroupExampleInput3 {
+    height: 115px;
+}
+
+.form-row {
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: #4aaaa5;
+    border: 1px solid #777777
+}
+
+/*Portfolio CSS*/
+
+h5 {
+    text-align: center;
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
